@@ -1,0 +1,13 @@
+#detail-gallery > .wrapper {
+  width: 60%;
+}
+#detail-gallery > .wrapper > img {
+  margin: auto;
+  width: 100%;
+  border-radius: 10px;
+}
+#detail-gallery > .wrapper > p.deskripsi {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #222831;
+}
